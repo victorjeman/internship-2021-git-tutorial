@@ -4,6 +4,8 @@
 
 * What is git?
 
+* [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
 * ![where are my change](https://preview.redd.it/p2fa7cnx1pz31.png?auto=webp&s=48bd912260742bc2f743a11d227c06489973cf3e)
 
 * Why git?
@@ -89,6 +91,9 @@
   * ![git commit](https://blog.axosoft.com/wp-content/uploads/2019/04/i-love-merge-conflicts.jpg)
 
 
-* [GitHub Desktop](https://desktop.github.com)
+* Extra
 
-  * Do the same steps but with **GitHub Desktop**
+  * [GitHub Desktop](https://desktop.github.com)
+
+  * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
