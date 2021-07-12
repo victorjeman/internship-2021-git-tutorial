@@ -65,7 +65,7 @@
   * `git add .`
   * `git commit -m "Created a file with my name and did some changes in it"`
   * `git push origin VictorJeman`
-  * ![clone repo](/assets/push-changes.jpg)
+  * ![clone repo](/assets/push-the-changes.jpg)
   
 
   * Create a Pull Request from your **YourName** branch into **main** branch
