@@ -24,74 +24,72 @@
   * [Add ssh key to your GitHub Profile](https://github.com/settings/ssh/new)
 
 
-* Git basic flow. Createa a [new repository](https://github.com/new)
+## Git basic flow. Createa a [new repository](https://github.com/new)
   
-  * Name it *git-tutorial*
+  * Create new repo 
+  * ![new repo](/assets/new-repo.jpg)
 
-  * Connect the repo to your local machine
+  * Add repo details
+  * ![new repo form](/assets/new-repo-form.jpg)
 
-  * Create a local branch, `git checkout -b main`
+  * Clone the repo
+  * ![clone repo](/assets/clone-info.jpg)
+  * ![clone repo](/assets/clone-repo.jpg)
 
-  * ![git branch](https://i.imgflip.com/4ooord.jpg)
+  * cd into the project
+  * ![clone repo](/assets/cd-project.jpg)
 
-  * Add a file, *readme.md*
+  * Create *.gitignore* file and a **ignore-me.md** file
+  * Add **ignore-me.md** file ot the **.gitignore**
+  * ![clone repo](/assets/ignore-a-file.jpg)
 
-  * Write something in *readme.md*, e.g. "Git Tutorial"
+  * Push the changes to remote branch
+  * ![clone repo](/assets/push-changes.jpg)
 
-  * Create *ignore-me.md* file
 
-  * Add *ignore-me.md* to *.gitignore*
-
-  * Add a single file to git , `git add readme.md`
-  
-  * Check the files, `git status`
-
-  * Commit your changes, `git commit -m "Added readme file"`
+  * See that **.gitignore** file has been added into the main branch
+  * ![clone repo](/assets/gitignore-created.jpg)
 
   * ![git commit](https://preview.redd.it/8mcssb978dk51.png?width=960&crop=smart&auto=webp&s=c633b0ac2896bb180e5c4e6c701f04326e6a1375)
 
-  * Push your changes from your *local main branch* to your *remote main branch*, `git push origin main`
 
-
-* Working with a different project
-
-  * Clone the project [internship-2021-git-tutorial](https://github.com/victorjeman/internship-2021-git-tutorial)
+## Create a Pull Request
 
   * Create a new branch, `git checkout -b YourName`, e.g. `git checkout -b VictorJeman`
+  * ![clone repo](/assets/create-new-branch.jpg)
 
-  * Add a new file **YourName.md* 
+  * Add a new file **YourName.md** and write something in it.
+  * ![clone repo](/assets/add-a-file.jpg)
 
-  * Copy the content from **happy.md** and make some changes in there
-
-  * Add all your changes to git `git add .`
-
-  * Commit your changes, `git commit -m "Created a file with my name and did some changes in it"`
-
-  * Push your changes to your own branch `git push origin YourName`
+  * Add all your changes to git 
+  * `git add .`
+  * `git commit -m "Created a file with my name and did some changes in it"`
+  * `git push origin VictorJeman`
+  * ![clone repo](/assets/push-changes.jpg)
+  
 
   * Create a Pull Request from your **YourName** branch into **main** branch
+  * ![clone repo](/assets/create-pull-request.jpg)
+  * or
+  * ![clone repo](/assets/create-pull-request-2.jpg)
 
-  * Pull Request review
 
-  * Merge Pull Requests in main (me)
+  * Select merge type
+  * ![clone repo](/assets/select-merge-type.jpg)
+  * ![clone repo](/assets/squash-and-merge.jpg)
+
+  * Merge Pull Requests into **main** branch and delete the temporary branch
+  * ![clone repo](/assets/delete-branch-after-merge.jpg)
 
   * ![git pull rquest](https://pics.me.me/just-make-sure-they-merge-my-pull-request-imgflip-com-programmer-29564995.png)
 
 
-* Solving conflicts
+## Solving conflicts
 
-  * Change the first line from **happy.md**
-
-  * Push the changes to your remote personal branch
-
-  * I will make some changes in **happy.md**
-
-  * Pull from master and fix the conflicts
-
-  * ![git commit](https://blog.axosoft.com/wp-content/uploads/2019/04/i-love-merge-conflicts.jpg)
+  * TODO: To add pictures
 
 
-* Extra
+## Extra
 
   * [GitHub Desktop](https://desktop.github.com)
 
