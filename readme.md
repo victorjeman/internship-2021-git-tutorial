@@ -4,6 +4,8 @@
 
 * What is git?
 
+* ![where are my change](https://preview.redd.it/p2fa7cnx1pz31.png?auto=webp&s=48bd912260742bc2f743a11d227c06489973cf3e)
+
 * Why git?
 
 * Create a  [GitHub account](https://github.com)
@@ -26,6 +28,8 @@
 
   * Create a local branch, `git checkout -b main`
 
+  * ![git branch](https://i.imgflip.com/4ooord.jpg)
+
   * Add a file, *readme.md*
 
   * Write something in *readme.md*, e.g. "Git Tutorial"
@@ -40,8 +44,9 @@
 
   * Commit your changes, `git commit -m "Added readme file"`
 
+  * ![git commit](https://preview.redd.it/8mcssb978dk51.png?width=960&crop=smart&auto=webp&s=c633b0ac2896bb180e5c4e6c701f04326e6a1375)
+
   * Push your changes from your *local main branch* to your *remote main branch*, `git push origin main`
-  
 
 * Clone [internship-2021-git-tutorial](https://github.com/victorjeman/internship-2021-git-tutorial)
 
@@ -59,10 +64,13 @@
 
   * Push your changes to your own branch `git push origin YourName`
 
-  * Create a Pull Request from your branch into `main`
+  * Create a Pull Request from your `YourName` branch into `main` branch
 
   * Pull Request review
 
+  * Merge Pull Requests in main (me)
+
+  * ![git pull rquest](https://pics.me.me/just-make-sure-they-merge-my-pull-request-imgflip-com-programmer-29564995.png)
 
 * Solving conflicts
 
@@ -74,10 +82,9 @@
 
   * Pull from master and fix the conflicts
 
-
+  * ![git commit](https://blog.axosoft.com/wp-content/uploads/2019/04/i-love-merge-conflicts.jpg)
 
 * Install [Github Desktop](https://desktop.github.com)
-
 
 * Extra
   * (markdownguide)[https://www.markdownguide.org/cheat-sheet]
