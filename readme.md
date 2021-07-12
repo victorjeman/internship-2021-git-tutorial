@@ -8,9 +8,10 @@
 
 * Why git?
 
-* Create a  [GitHub account](https://github.com)
+* Create a [GitHub account](https://github.com)
 
 * Download [Git bash](https://git-scm.com/downloads)
+
 
 * Create a ssh key
 
@@ -20,7 +21,8 @@
 
   * [Add ssh key to your GitHub Profile](https://github.com/settings/ssh/new)
 
-* Create a [new repository](https://github.com/new)
+
+* Git basic flow. Createa a [new repository](https://github.com/new)
   
   * Name it *git-tutorial*
 
@@ -48,15 +50,16 @@
 
   * Push your changes from your *local main branch* to your *remote main branch*, `git push origin main`
 
-* Clone [internship-2021-git-tutorial](https://github.com/victorjeman/internship-2021-git-tutorial)
 
-* Create a new branch
+* Working with a different project
 
-  * `git checkout -b VictorJeman`
+  * Clone the project [internship-2021-git-tutorial](https://github.com/victorjeman/internship-2021-git-tutorial)
 
-  * `Add a new file YourName.md`
+  * Create a new branch, `git checkout -b YourName`, e.g. `git checkout -b VictorJeman`
 
-  * Copy the content from `happy.md` and make some changes in there
+  * Add a new file **YourName.md* 
+
+  * Copy the content from **happy.md** and make some changes in there
 
   * Add all your changes to git `git add .`
 
@@ -64,7 +67,7 @@
 
   * Push your changes to your own branch `git push origin YourName`
 
-  * Create a Pull Request from your `YourName` branch into `main` branch
+  * Create a Pull Request from your **YourName** branch into **main** branch
 
   * Pull Request review
 
@@ -72,19 +75,20 @@
 
   * ![git pull rquest](https://pics.me.me/just-make-sure-they-merge-my-pull-request-imgflip-com-programmer-29564995.png)
 
+
 * Solving conflicts
 
-  * Change the first line from `happy.md`
+  * Change the first line from **happy.md**
 
   * Push the changes to your remote personal branch
 
-  * I will make some changes in `happy.md`
+  * I will make some changes in **happy.md**
 
   * Pull from master and fix the conflicts
 
   * ![git commit](https://blog.axosoft.com/wp-content/uploads/2019/04/i-love-merge-conflicts.jpg)
 
-* Install [Github Desktop](https://desktop.github.com)
 
-* Extra
-  * (markdownguide)[https://www.markdownguide.org/cheat-sheet]
+* [GitHub Desktop](https://desktop.github.com)
+
+  * Do the same steps but with **GitHub Desktop**
