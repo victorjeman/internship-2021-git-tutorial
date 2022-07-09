@@ -27,7 +27,9 @@
   <img width="500" src="/assets/wrong.gif">
 </p>
   
-<sub>💡 There are a lot of these.</sub>
+```
+💡 There are a lot of these.
+```
 
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
