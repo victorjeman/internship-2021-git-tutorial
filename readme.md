@@ -102,9 +102,9 @@
 
 <br/>
 
+* [bitbucket](https://bitbucket.org)
 * [github](https://github.com)
 * [gitlab](https://about.gitlab.com)
-* [bitbucket](https://bitbucket.org)
   
 ---
 
@@ -129,7 +129,6 @@
 </p>
   
 * [What is GitHub?](https://kinsta.com/knowledgebase/what-is-github/)
-* [gitlab](https://about.gitlab.com)
 * [GitHub is not git](https://thebittheories.com/the-git-github-conundrum-664555988cf6)
   
 ---
