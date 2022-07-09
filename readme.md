@@ -171,28 +171,28 @@ Download [Git bash](https://git-scm.com/downloads)
 
 ## TASK 1
 
-> Fa clone la proiect.
+> 👉 Fa clone la proiect.
 ```
 git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
 ```
 
 <br/>
 
-> Verifica branch-ul local pe care te afli. Ar trebuie sa fie branch-ul "main".
+> 👉 Verifica branch-ul local pe care te afli. Ar trebuie sa fie branch-ul "main".
 ```
 git branch
 ```
 
 <br/>
 
-> Fa un branch nou si da-i numele "feature/task-1".
+> 👉 Fa un branch nou si da-i numele "feature/task-1".
 ```
 git checkout -b feature/task-1
 ```
 
 <br/>
 
-> Cu un "git branch" poti sa confirmi ca te afli pe noul branch creat local.
+> 👉 Cu un "git branch" poti sa confirmi ca te afli pe noul branch creat local.
 ```
 git branch
 ```
@@ -209,14 +209,14 @@ git branch
 
 <br/>
 
-> Creeaza 3 fisiere noi.
+> 👉 Creeaza 3 fisiere noi.
 ```
 touch play/pretty-1.md play/pretty-2.md play/pretty-3.md play/pretty-4.md
 ```
 
 <br/>
 
-> Scrie in fiecare fisier urmatorul text.
+> 👉 Scrie in fiecare fisier urmatorul text.
 ```
 I feel charming
 Oh so charming
@@ -227,14 +227,14 @@ That I hardly can believe I'm real
 
 <br/>
 
-> Verifica situatia.
+> 👉 Verifica situatia.
 ```
 git status
 ```
 
 <br/>
 
-> Asa ceva ar trebui sa vezi
+> 👉 Asa ceva ar trebui sa vezi
 
 <p align="center">
   <img width="700" src="/assets/tasks/1.jpg">
@@ -242,127 +242,127 @@ git status
 
 <br/>
 
-> Adauga fisierele "pretty-1.md" si "pretty-2.md" in gitul tau local.
+> 👉 Adauga fisierele "pretty-1.md" si "pretty-2.md" in gitul tau local.
 ```
 git add play/pretty-1.md play/pretty-2.md
 ```
 
 <br/>
 
-> Verifica situatia. Trebuie sa ai 2 fisiere cu verde si 2 cu rosu. Fisierele cu verde sunt in staged area.
+> 👉 Verifica situatia. Trebuie sa ai 2 fisiere cu verde si 2 cu rosu. Fisierele cu verde sunt in staged area.
 ```
 git status
 ```
 
 <br/>
   
-> Adauga un commit cu mesaj si descriere pentru fisierele tale din staged area.
+> 👉 Adauga un commit cu mesaj si descriere pentru fisierele tale din staged area.
 ```
 git commit -m "TASK 1 | Am adaugat fisierele pretty-1.md si pretty-2.md" -m "So far so good. Primul task nu pare asa de greu"
 ```
 
 <br/>
 
-> Fa push cu modificarile din git-ul tau local(staged area) pe remote(GitHub).
+> 👉 Fa push cu modificarile din git-ul tau local(staged area) pe remote(GitHub).
 ```
 git push origin feature/task-1
 ```
 
 <br/>
 
-> Fa un pull request in GitHub.
+> 👉 Fa un pull request in GitHub.
 
 <br/>
 
-> Fa merge la pull request in branch-ul "main".
+> 👉 Fa merge la pull request in branch-ul "main".
 
 ## TASK 2
 
-> Verifica pe ce branch esti pe local.
+> 👉 Verifica pe ce branch esti pe local.
 ```
 git branch 
 ```
 
 <br/>
 
-> Inainte sa te apuci de un alt task/feature mereu sa mergi inapoi pe branch-ul local "main".
+> 👉 Inainte sa te apuci de un alt task/feature mereu sa mergi inapoi pe branch-ul local "main".
 ```
 git checkout main 
 ```
 
 <br/>
 
-> Sterge branch-ul local "feature/task-1". Dupa ce faci merge la un branch in main, mereu sa-l stergi de pe local.
+> 👉 Sterge branch-ul local "feature/task-1". Dupa ce faci merge la un branch in main, mereu sa-l stergi de pe local.
 ```
 git branch -D feature/task-1 
 ```
 
 <br/>
 
-> Daca nu ai sters branch-ul remote(din GitHub) "feature/task-1" cand ai facut merge in "main", sterge-l acum. Mereu sa stergi branch-urile remote dupa ce le faci merge in branch-ul "main".
+> 👉 Daca nu ai sters branch-ul remote(din GitHub) "feature/task-1" cand ai facut merge in "main", sterge-l acum. Mereu sa stergi branch-urile remote dupa ce le faci merge in branch-ul "main".
 ```
 git push -d origin feature/task-1 
 ```
 
 <br/>
 
-> Mai verifica o data lista de branch-uri locale. Observa ca branch-ul "feature/task-1 " nu mai apare in lista.
+> 👉 Mai verifica o data lista de branch-uri locale. Observa ca branch-ul "feature/task-1 " nu mai apare in lista.
 ```
 git branch
 ```
 
 <br/>
 
-> Inainte sa lucrezi la un nou feature, asigura-te ca branch-ul tau local "main" este la zi cu modificarile  din branch-ul "main" remote(de pe GitHub). Fiind pe branch-ul "main" local, faci un git pull de pe branch-ul "main" remote.
+> 👉 Inainte sa lucrezi la un nou feature, asigura-te ca branch-ul tau local "main" este la zi cu modificarile  din branch-ul "main" remote(de pe GitHub). Fiind pe branch-ul "main" local, faci un git pull de pe branch-ul "main" remote.
 ```
 git pull origin main
 ```
 
 <br/>
 
-> Branch-ul tau local "main" fiind la zi, poti sa faci un alt branch "feature/task-2" care porneste din branch-ul "main".
+> 👉 Branch-ul tau local "main" fiind la zi, poti sa faci un alt branch "feature/task-2" care porneste din branch-ul "main".
 ```
 git checkout -b feature/task-2
 ```
 
 <br/>
 
-> Noi in task-ul anterior nu am facut commit si push la toate fisierele. Momentan mai avem doua fisiere care sunt untracked de git(au culoarea rosie).
+> 👉 Noi in task-ul anterior nu am facut commit si push la toate fisierele. Momentan mai avem doua fisiere care sunt untracked de git(au culoarea rosie).
 ```
 git status
 ```
 
 <br/>
 
-> Adauga ambele fisiere in git-ul tau local. De data asta in loc sa adaugam fiecare fisier in parte o sa adauga toate modificarile modificate.
+> 👉 Adauga ambele fisiere in git-ul tau local. De data asta in loc sa adaugam fiecare fisier in parte o sa adauga toate modificarile modificate.
 ```
 git add .
 ```
 
 <br/>
 
-> Asigura-te ca fisierele tale sunt cu verde, adica adaugate in staged area.
+> 👉 Asigura-te ca fisierele tale sunt cu verde, adica adaugate in staged area.
 ```
 git status
 ```
 
 <br/>
 
-> Adauga un commit
+> 👉 Adauga un commit
 ```
 git commit -m "TASK 2 | Gata si task-ul 2" -m "Am mai invatat niste chestii noi"
 ```
 
 <br/>
 
-> Fa push pe remote(pe git-ul integrat/instalat in GitHub)
+> 👉 Fa push pe remote(pe git-ul integrat/instalat in GitHub)
 ```
 git push origin feature/task-2
 ```
 
 <br/>
 
-> Creeaza un pull request din interfata GitHub dar nu-i da merge inca. 
+> 👉 Creeaza un pull request din interfata GitHub dar nu-i da merge inca. 
 ```
 git push origin feature/task-2
 ```
