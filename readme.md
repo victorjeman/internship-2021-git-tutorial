@@ -12,72 +12,99 @@
 <p align="center">
   <img width="800" src="/assets/version-control.png">
 </p>
+
+<br/>
   
 > 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
-  
-  [What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-<br/><br/>
+<br/>
+
+[What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+<br/><br/><br/>
 
 ---
 
 ## Version control tool(s)?[![](/assets/pin.svg)](#version-control-tools)
 
+<br/>
+
 <p align="center">
   <img width="500" src="/assets/there-can-be-only-one.jpg">
 </p>
+
+<br/>
 
 <p align="center">
   <img width="500" src="/assets/wrong.gif">
 </p>
   
+<br/>
 
 > 💡 There are a lot of these.
 
+<br/>
 
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
 </p>
+
+<br/>
+
+[15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
   
-  [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
-  
-<br/><br/>
+<br/><br/><br/>
 
 ---
 
 
 ## What is git?[![](/assets/pin.svg)](#what-is-git)
+<br/>
 
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/git.jpg">
 </p>
 
+<br/>
+
   > 💡 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+<br/>
 
 <p align="center">
   <img width="800" src="/assets/why-are-my-changes-gone.png">
 </p>
-  
-  * [What is git? | git website](https://git-scm.com)
-  ( [git github repo](https://github.com/git/git)
 
-<br/><br/>
+<br/>
+  
+* [What is git? | git website](https://git-scm.com)
+* [git github repo](https://github.com/git/git)
+
+<br/><br/><br/>
 
 ---
 
 
 ## Git based platforms[![](/assets/pin.svg)](#git-based-platforms)
 
+<br/>
+
 <p align="center">
   <img width="700" src="/assets/git-based-fully-integrated-platform.jpg">
 </p>
 
+<br/>
+
 > 💡 There are multiple cloud platforms that are working based on git.
 
-  * [github](https://github.com)
-  * [gitlab](https://about.gitlab.com)
-  * [bitbucket](https://bitbucket.org)
+<br/>
+
+* [github](https://github.com)
+* [gitlab](https://about.gitlab.com)
+* [bitbucket](https://bitbucket.org)
   
+<br/><br/><br/>
+
 ---
 
 
