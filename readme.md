@@ -7,7 +7,9 @@
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
-![where are my change](https://preview.redd.it/p2fa7cnx1pz31.png?auto=webp&s=48bd912260742bc2f743a11d227c06489973cf3e)
+<p align="center">
+  <img width="800" src="/assets/version-control.png">
+</p>
   
   > 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
   
