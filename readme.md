@@ -1,6 +1,8 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 
-<a name="logo" href="https://victorjeman.com"><img align="center" src="/assets/git-workshop.png" alt="GIT Workshop" style="width:100%;height:100%"/></a>
+<a name="logo" href="https://victorjeman.com">
+  <img align="center" src="/assets/git-workshop.png" alt="GIT Workshop" style="width:100%;height:100%"/>
+</a>
   <br><br><strong>GIT Workshop</strong>
 </h1>
 
@@ -11,10 +13,12 @@
   <img width="800" src="/assets/version-control.png">
 </p>
   
-### 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+> 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
   
   [What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
-  
+
+<br/><br/>
+
 ---
 
 ## Version control tool(s)?[![](/assets/pin.svg)](#version-control-tools)
@@ -28,7 +32,7 @@
 </p>
   
 
-### 💡 There are a lot of these.
+> 💡 There are a lot of these.
 
 
 <p align="center">
@@ -37,6 +41,8 @@
   
   [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
   
+<br/><br/>
+
 ---
 
 
@@ -54,7 +60,9 @@
   
   * [What is git? | git website](https://git-scm.com)
   ( [git github repo](https://github.com/git/git)
-  
+
+<br/><br/>
+
 ---
 
 
@@ -64,7 +72,7 @@
   <img width="700" src="/assets/git-based-fully-integrated-platform.jpg">
 </p>
 
-### 💡 There are multiple cloud platforms that are working based on git.
+> 💡 There are multiple cloud platforms that are working based on git.
 
   * [github](https://github.com)
   * [gitlab](https://about.gitlab.com)
