@@ -11,7 +11,7 @@
   <img width="800" src="/assets/version-control.png">
 </p>
   
-  > 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+### 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
   
   [What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
   
@@ -27,9 +27,9 @@
   <img width="500" src="/assets/wrong.gif">
 </p>
   
-```
-💡 There are a lot of these.
-```
+
+### 💡 There are a lot of these.
+
 
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
@@ -64,7 +64,7 @@
   <img width="700" src="/assets/git-based-fully-integrated-platform.jpg">
 </p>
 
-  > 💡 There are multiple cloud platforms that are working based on git.
+### 💡 There are multiple cloud platforms that are working based on git.
 
   * [github](https://github.com)
   * [gitlab](https://about.gitlab.com)
