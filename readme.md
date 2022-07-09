@@ -171,9 +171,8 @@ Download [Git bash](https://git-scm.com/downloads)
 
 ## TASK 1
 
-````
+```
 # Fa clone la proiect
-
 git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
 
 # Fa un branch nou
