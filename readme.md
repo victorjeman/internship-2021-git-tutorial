@@ -422,10 +422,11 @@ git checkout -b feature/task-2.1
 > Acceptance Criteria 1: schimba cuvantul "charming" cu "cool".
 > Acceptance Criteria 2: schimba cuvantul "feel" cu "am".
 > Acceptance Criteria 3: schimba cuvantul "pretty" cu "handsome".
-> REZULTATUL FINAL: "pretty-1.md" si "pretty-2.md"  trebuie sa contina urmatorul text
+> Pentru task-2.1 fisierele "pretty-1.md" si "pretty-2.md"  trebuie sa contina
 ```
 I am cool
 Oh so cool
+And so pretty
 It's alarming how cool I am
 That I hardly can believe I'm real
 ```
@@ -486,7 +487,7 @@ git checkout -b feature/task-2.2
 > 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
 > Acceptance Criteria 1: langa cuvantul charming adauga "and sexy"
 > Acceptance Criteria 2: sterge randu "And so pretty"
-> Rezultatul final trebuie sa arate asa.
+> Pentru task-2.2 fisierele "pretty-1.md" si "pretty-2.md" trebuie sa contina
 ```
 I feel charming and sexy
 Oh so charming and sexy
