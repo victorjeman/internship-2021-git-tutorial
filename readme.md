@@ -258,14 +258,14 @@ git status
   
 > Adauga un commit cu mesaj si descriere pentru fisierele tale din staged area.
 ```
-git commit -m "TASK 1 | Am adaugat fisieru pretty-1.md" -m "So far so good. Primul task nu pare asa de greu"
+git commit -m "TASK 1 | Am adaugat fisierele pretty-1.md si pretty-2.md" -m "So far so good. Primul task nu pare asa de greu"
 ```
 
 <br/>
 
 > Fa push cu modificarile din git-ul tau local(staged area) pe remote(GitHub).
 ```
-git push origin feature/task-2
+git push origin feature/task-1
 ```
 
 <br/>
