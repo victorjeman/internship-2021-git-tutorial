@@ -1,5 +1,4 @@
-I feel charming
-Oh so charming
-It's alarming how charming I feel
-And so pretty
+I feel charming and sexy
+Oh so charming and sexy
+It's alarming how charming and sexy I feel
 That I hardly can believe I'm real
