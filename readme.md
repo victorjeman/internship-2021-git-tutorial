@@ -9,7 +9,11 @@
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
   
+  > 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. 
+  
   [Good answer](https://www.atlassian.com/git/tutorials/what-is-version-control)
+  
+  
 
 ---
 
