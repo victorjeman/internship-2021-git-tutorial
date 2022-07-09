@@ -23,12 +23,7 @@
   
 ---
 
-## Version control tools?[![](/assets/pin.svg)](#version-control-tools)
-
-<p align="center">
-  <img width="800" src="/assets/version-control-tools.jpg">
-</p>
-
+## Version control tool(s)?[![](/assets/pin.svg)](#version-control-tools)
 
 <p align="center">
   <img width="500" src="/assets/there-can-be-only-one.jpg">
@@ -39,18 +34,20 @@
 </p>
   
   > 💡 There are a lot of these.
+
+<p align="center">
+  <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
+</p>
   
   [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
   
 ---
 
 
-
-
 ## What is git?[![](/assets/pin.svg)](#what-is-git)
 
 <p align="center">
-  <img width="800" src="/assets/git.jpg">
+  <img style="width:100%;height:100%" src="/assets/git.jpg">
 </p>
 
   > 💡 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
@@ -59,8 +56,8 @@
   <img width="800" src="/assets/why-are-my-changes-gone.png">
 </p>
   
-  [What is git? | git website](https://git-scm.com)
-  [git repo on github](https://github.com/git/git)
+  * [What is git? | git website](https://git-scm.com)
+  ( [git github repo](https://github.com/git/git)
   
 ---
 
@@ -68,11 +65,10 @@
 ## Git based platforms[![](/assets/pin.svg)](#git-based-platforms)
 
 <p align="center">
-  <img width="800" src="/assets/git-based-fully-integrated-platform.jpg">
+  <img width="700" src="/assets/git-based-fully-integrated-platform.jpg">
 </p>
 
   > 💡 There are multiple cloud platforms that are working based on git.
-
 
   * [github](https://github.com)
   * [gitlab](https://about.gitlab.com)
