@@ -71,7 +71,7 @@
 
 <br/>
 
-  > 💡 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+  > 💡 Git is a specific open-source version control system created by Linus Torvalds in 2005 designed to handle projects with speed and efficiency.
 
 <br/>
 
@@ -136,27 +136,60 @@
 <br/>
   
   
+ 
+  
+## STEP 1. Create a GitHub account
+
+<br/>
+
+Create a [GitHub account](https://github.com)
+
+<br/>
+  
+---
+  
+## STEP 2. Get Git bash
+
+<br/>
+
+Download [Git bash](https://git-scm.com/downloads)
+
+<br/>
+  
+---
+  
+  
+## STEP 3. Get Git bash
+
+<br/>
+
+* Create a ssh key
+
+* Enter `ls -al ~/.ssh` to [see if existing SSH keys are present](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
+
+* [Generating a new SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+* [Add ssh key to your GitHub Profile](https://github.com/settings/ssh/new)
+
+<br/>
+  
+---
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
 -----
 # Separator
 -----
-
-* [What is git?](https://github.com/git/git)
-
-* Version control tools
-
-* [Git-based fully integrated platform for software development]
-* ![git-based-fully-integrated-platform](/assets/git-based-fully-integrated-platform.jpg)
-
-* ![where are my change](https://preview.redd.it/p2fa7cnx1pz31.png?auto=webp&s=48bd912260742bc2f743a11d227c06489973cf3e)
-
-* Why git?
-
-* Create a [GitHub account](https://github.com)
-
-* Download [Git bash](https://git-scm.com/downloads)
 
 
 * Create a ssh key
@@ -168,6 +201,10 @@
   * [Add ssh key to your GitHub Profile](https://github.com/settings/ssh/new)
 
 
+  
+  
+  
+  
 ## Git basic flow. Createa a [new repository](https://github.com/new)
   
   * Create new repo 
