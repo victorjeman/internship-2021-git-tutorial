@@ -207,12 +207,11 @@ git branch
   <img width="700" src="/assets/tasks/3.jpg">
 </p>
 
-2
 <br/>
 
 > Creeaza 3 fisiere noi.
 ```
-touch pretty-1.md pretty-2.md pretty-3.md pretty-4.md
+touch playground/pretty-1.md playground/pretty-2.md playground/pretty-3.md playground/pretty-4.md
 ```
 
 <br/>
