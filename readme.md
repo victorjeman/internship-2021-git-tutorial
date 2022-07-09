@@ -4,12 +4,17 @@
   <br><br><strong>GIT Workshop 2022</strong>
 </h1>
 
-<div style="background-color: #FFF; color: #000; padding: 20px; height: 90vh; border-radius: 10px;">
-  
-  ### What is vesion control ?
-  [Answer](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-</div>
+
+
+## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
+  
+  [Good answer](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+---
+
+
+
 
 
 * [What is git?](https://github.com/git/git?ref=stackshare)
