@@ -2,9 +2,21 @@
 
 ## Git Basics
 
-* What is git?
+<div style="background-color: #FFF; color: #000; padding: 20px; height: 90vh; border-radius: 10px;">
+  
+  ### What is vesion control ?
+  [Answer](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-* [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+</div>
+
+
+* [What is git?](https://github.com/git/git?ref=stackshare)
+
+* Version control tools
+* ![Version control tools](/assets/version-control-tools.jpg)
+
+* [Git-based fully integrated platform for software development]
+* ![git-based-fully-integrated-platform](/assets/git-based-fully-integrated-platform.jpg)
 
 * ![where are my change](https://preview.redd.it/p2fa7cnx1pz31.png?auto=webp&s=48bd912260742bc2f743a11d227c06489973cf3e)
 
