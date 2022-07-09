@@ -190,6 +190,17 @@ git branch
 git checkout -b feature/task-1
 ```
 
+> Cu un "git branch" poti sa confirmi ca te afli pe noul branch creat local.
+```
+git branch
+```
+
+<br/>
+
+<p align="center">
+  <img width="700" src="/assets/tasks/2.jpg">
+</p>
+
 <br/>
 
 > Creeaza 3 fisiere noi.
@@ -222,6 +233,8 @@ git status
 <p align="center">
   <img width="700" src="/assets/tasks/1.jpg">
 </p>
+
+<br/>
 
 > Adauga fisierele "pretty-1.md" si "pretty-2.md" in gitul tau local.
 ```
@@ -279,7 +292,6 @@ git branch -D feature/task-1
 ```
 
 <br/>
-
 
 > Daca nu ai sters branch-ul remote(din GitHub) "feature/task-1" cand ai facut merge in "main", sterge-l acum. Mereu sa stergi branch-urile remote dupa ce le faci merge in branch-ul "main".
 ```
