@@ -29,7 +29,7 @@
 
 ---
 
-<br/><br/>
+<br/>
 
 ## Version control tool(s)?[![](/assets/pin.svg)](#version-control-tools)
 
@@ -62,7 +62,7 @@
 
 ---
 
-<br/><br/>
+<br/>
 
 ## What is git?[![](/assets/pin.svg)](#what-is-git)
 <br/>
@@ -89,7 +89,7 @@
 
 ---
 
-<br/><br/>
+<br/>
 
 ## Git based platforms[![](/assets/pin.svg)](#git-based-platforms)
 
@@ -108,11 +108,12 @@
 * [github](https://github.com)
 * [gitlab](https://about.gitlab.com)
 * [bitbucket](https://bitbucket.org)
+  
 <br/><br/>
 
 ---
 
-<br/><br/>
+<br/>
 
 -----
 # Separator
