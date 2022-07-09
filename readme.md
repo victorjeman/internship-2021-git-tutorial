@@ -381,7 +381,7 @@ git push origin feature/task-2
 <br/>
 
 ```
-I feel handsome
+I feel handsome and sexy
 Oh so charming
 It's alarming how charming I feel
 And so cool
@@ -420,7 +420,7 @@ git checkout -b feature/task-2.1
 
 > 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
 > Acceptance Criteria 1: schimba cuvantul "charming" cu "handsome".
-> Acceptance Criteria 1: sterge randul 4
+> Acceptance Criteria 1: Inlocuieste randul 4 cu "+++++++"
 > Pentru task-2.1 fisierele "pretty-1.md" si "pretty-2.md"  trebuie sa contina
 ```
 I feel handsome
