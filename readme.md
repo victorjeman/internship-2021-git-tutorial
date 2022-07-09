@@ -258,7 +258,7 @@ git status
   
 > 👉 Adauga un commit cu mesaj si descriere pentru fisierele tale din staged area.
 ```
-git commit -m "TASK 1 | Am adaugat fisierele pretty-1.md si pretty-2.md" -m "So far so good. Primul task nu pare asa de greu"
+git commit -m "TASK 1 | Am adaugat fisierele pretty-1.md si pretty-2.md" -m "So far so good. Primul task nu pare asa de greu."
 ```
 
 <br/>
@@ -352,7 +352,7 @@ git status
 
 > 👉 Adauga un commit
 ```
-git commit -m "TASK 2 | Gata si task-ul 2" -m "Am mai invatat niste chestii noi"
+git commit -m "TASK 2 | Gata si task-ul 2" -m "Am mai invatat niste chestii noi."
 ```
 
 <br/>
@@ -370,3 +370,105 @@ git push origin feature/task-2
 ```
 
 <br/>
+
+## TASK 2.1
+
+<br/>
+
+> Task-ul 2 este ceva mai mare si o sa fie nevoie sa lucreze 2 colegi la el.
+
+<br/>
+
+> Pasi pentru developer 1
+
+<br/>
+
+> 👉 Fa un branch "feature/task-2.1" din branch-ul "feature/task-2"
+
+<br/>
+
+> 👉 Confirma ca esti pe branch-ul "feature/task-2"
+```
+git branch
+```
+
+<br/>
+
+> 👉 Fa branch-ul "feature/task-2.1"
+```
+git checkout -b feature/task-2.1
+```
+
+<br/>
+
+> 👉 Fa branch-ul "feature/task-2.1"
+
+<br/>
+
+> 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
+> Acceptance Criteria 1: schimba cuvantul "charming" cu "cool".
+> Acceptance Criteria 2: schimba cuvantul "feel" cu "am".
+> Rezultatul final trebuie sa arate asa.
+```
+I am cool
+Oh so cool
+It's alarming how cool I am
+And so pretty
+That I hardly can believe I'm real
+```
+
+<br/>
+
+> 👉 Pune modificarile pe un branch remote
+```
+git add .
+git commit -m "TASK 2.1 | Am modificat 'charming' cu 'cool' si 'feel' cu 'am'"
+git push origin feature/task-2.1
+```
+
+<br/>
+
+> 👉 Fa un pull request prin care vrei sa faci mergi din "feature/task-2.1" in "feature/task-2"
+
+<br/>
+
+> 👉IMPORTANT: Nu da merge la pull request
+
+## TASK 2.2
+
+<br/>
+
+> Pasi pentru developer 2
+
+<br/>
+
+> 👉 Fa un branch "feature/task-2.2" din branch-ul "feature/task-2"
+
+<br/>
+
+> 👉 Confirma ca esti pe branch-ul "feature/task-2"
+
+```
+git branch
+```
+
+<br/>
+
+> 👉 Fa branch-ul "feature/task-2.2"
+
+```
+git checkout -b feature/task-2.2
+```
+
+<br/>
+
+> 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
+> Acceptance Criteria 1: langa cuvantul charming adauga "and sexy"
+> Rezultatul final trebuie sa arate asa.
+```
+I feel charming and sexy
+Oh so charming and sexy
+It's alarming how charming and sexy I feel
+And so pretty
+That I hardly can believe I'm real
+```
