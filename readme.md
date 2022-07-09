@@ -381,10 +381,10 @@ git push origin feature/task-2
 <br/>
 
 ```
-I am cool and sexy
-Oh so cool and sexy
-It's alarming how cool and sexy I am
-And so pretty
+I feel handsome
+Oh so charming
+It's alarming how charming I feel
+And so cool
 That I hardly can believe I'm real
 ```
 
@@ -419,15 +419,13 @@ git checkout -b feature/task-2.1
 <br/>
 
 > 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
-> Acceptance Criteria 1: schimba cuvantul "charming" cu "cool".
-> Acceptance Criteria 2: schimba cuvantul "feel" cu "am".
-> Acceptance Criteria 3: schimba cuvantul "pretty" cu "handsome".
+> Acceptance Criteria 1: schimba cuvantul "charming" cu "handsome".
+> Acceptance Criteria 1: sterge randul 4
 > Pentru task-2.1 fisierele "pretty-1.md" si "pretty-2.md"  trebuie sa contina
 ```
-I am cool
-Oh so cool
-And so pretty
-It's alarming how cool I am
+I feel handsome
+Oh so charming
+It's alarming how charming I feel
 That I hardly can believe I'm real
 ```
 
@@ -489,9 +487,10 @@ git checkout -b feature/task-2.2
 > Acceptance Criteria 2: sterge randu "And so pretty"
 > Pentru task-2.2 fisierele "pretty-1.md" si "pretty-2.md" trebuie sa contina
 ```
-I feel charming and sexy
-Oh so charming and sexy
-It's alarming how charming and sexy I feel
+I feel charming
+Oh so charming
+It's alarming how charming I feel
+And so cool
 That I hardly can believe I'm real
 ```
 
