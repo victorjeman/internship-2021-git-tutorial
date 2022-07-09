@@ -422,12 +422,11 @@ git checkout -b feature/task-2.1
 > Acceptance Criteria 1: schimba cuvantul "charming" cu "cool".
 > Acceptance Criteria 2: schimba cuvantul "feel" cu "am".
 > Acceptance Criteria 3: schimba cuvantul "pretty" cu "handsome".
-> Rezultatul final trebuie sa arate asa.
+> REZULTATUL FINAL: "pretty-1.md" si "pretty-2.md"  trebuie sa contina urmatorul text
 ```
 I am cool
 Oh so cool
 It's alarming how cool I am
-And so pretty
 That I hardly can believe I'm real
 ```
 
@@ -436,7 +435,7 @@ That I hardly can believe I'm real
 > 👉 Pune modificarile pe un branch remote
 ```
 git add .
-git commit -m "TASK 2.1 | Am modificat 'charming' cu 'cool' si 'feel' cu 'am'"
+git commit -m "TASK 2.1"
 git push origin feature/task-2.1
 ```
 
@@ -460,7 +459,15 @@ git push origin feature/task-2.1
 
 <br/>
 
-> 👉 Confirma ca esti pe branch-ul "feature/task-2"
+> 👉 Mai intai schimba-te inapoi pe branch-ul "feature/task-2"
+
+```
+git checkout feature/task-2
+```
+
+<br/>
+
+> 👉 Da-i si un "git branch" ca sa confirmi
 
 ```
 git branch
@@ -468,7 +475,7 @@ git branch
 
 <br/>
 
-> 👉 Fa branch-ul "feature/task-2.2"
+> 👉 Creeaza branch-ul "feature/task-2.2" din branch-ul "feature/task-2"
 
 ```
 git checkout -b feature/task-2.2
@@ -484,6 +491,27 @@ git checkout -b feature/task-2.2
 I feel charming and sexy
 Oh so charming and sexy
 It's alarming how charming and sexy I feel
-And so pretty
 That I hardly can believe I'm real
 ```
+
+<br/>
+
+> 👉 Pune modificarile pe un branch remote
+```
+git add .
+git commit -m "TASK 2.2"
+git push origin feature/task-2.1
+```
+
+
+## Task 2 updates
+
+> 👉 Fa merge la branch-ul "feature/task-2.1" in "feature/task-2"
+
+<br/>
+
+> 👉 Fa merge la branch-ul "feature/task-2.2" in "feature/task-2"
+
+<br/>
+
+> 👉 Rezolva conflictele.
