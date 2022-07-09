@@ -178,7 +178,14 @@ git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
 
 <br/>
 
-> Fa un branch nou.
+> Verifica branch-ul local pe care te afli. Ar trebuie sa fie branch-ul "main".
+```
+git branch
+```
+
+<br/>
+
+> Fa un branch nou si da-i numele "feature/task-1".
 ```
 git checkout -b feature/task-1
 ```
