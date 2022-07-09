@@ -8,7 +8,7 @@
 
 > Let's learn the basics about git together.
 
-<br/><br/><br/>
+<br/><br/>
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
@@ -29,7 +29,7 @@
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Version control tool(s)?[![](/assets/pin.svg)](#version-control-tools)
 
@@ -58,12 +58,11 @@
 <br/>
 
 [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
-  
-<br/>
+<br/><br/>
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 ## What is git?[![](/assets/pin.svg)](#what-is-git)
 <br/>
@@ -86,12 +85,11 @@
   
 * [What is git? | git website](https://git-scm.com)
 * [git github repo](https://github.com/git/git)
-
-<br/>
+<br/><br/>
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 ## Git based platforms[![](/assets/pin.svg)](#git-based-platforms)
 
@@ -110,12 +108,11 @@
 * [github](https://github.com)
 * [gitlab](https://about.gitlab.com)
 * [bitbucket](https://bitbucket.org)
-  
-<br/>
+<br/><br/>
 
 ---
 
-<br/><br/><br/>
+<br/><br/>
 
 -----
 # Separator
