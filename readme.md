@@ -172,17 +172,17 @@ Download [Git bash](https://git-scm.com/downloads)
 ## TASK 1
 
 
-Fa clone la proiect
+> Fa clone la proiect
 ```
 git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
 ```
 
-Fa un branch nou
+> Fa un branch nou
 ```
 git checkout -b feature/task-1
 ```
 
-Creeaza un fisier nou
+> Creeaza un fisier nou
 ```
 touch my-file.md
 ```
