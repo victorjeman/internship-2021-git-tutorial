@@ -244,7 +244,7 @@ git status
 
 > Adauga fisierele "pretty-1.md" si "pretty-2.md" in gitul tau local.
 ```
-git add pretty-1.md pretty-2.md
+git add play/pretty-1.md play/pretty-2.md
 ```
 
 <br/>
