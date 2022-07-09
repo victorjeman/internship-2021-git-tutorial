@@ -190,6 +190,8 @@ git branch
 git checkout -b feature/task-1
 ```
 
+<br/>
+
 > Cu un "git branch" poti sa confirmi ca te afli pe noul branch creat local.
 ```
 git branch
@@ -200,6 +202,11 @@ git branch
 <p align="center">
   <img width="700" src="/assets/tasks/2.jpg">
 </p>
+
+<p align="center">
+  <img width="700" src="/assets/tasks/3.jpg">
+</p>
+
 
 <br/>
 
