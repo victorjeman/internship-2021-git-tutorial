@@ -38,8 +38,6 @@
 ---
 
 
-
-
 ## What is git?[![](/assets/pin.svg)](#what-is-git)
 
 <p align="center">
@@ -52,8 +50,8 @@
   <img width="800" src="/assets/why-are-my-changes-gone.png">
 </p>
   
-  [What is git? | git website](https://git-scm.com)
-  [git repo on github](https://github.com/git/git)
+  * [What is git? | git website](https://git-scm.com)
+  ( [git github repo](https://github.com/git/git)
   
 ---
 
@@ -65,7 +63,6 @@
 </p>
 
   > 💡 There are multiple cloud platforms that are working based on git.
-
 
   * [github](https://github.com)
   * [gitlab](https://about.gitlab.com)
