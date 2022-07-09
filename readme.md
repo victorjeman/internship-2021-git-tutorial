@@ -27,8 +27,12 @@
 <p align="center">
   <img width="500" src="/assets/there-can-be-only-one.jpg">
 </p>
+
+<p align="center">
+  <img width="500" src="/assets/wrong.gif">
+</p>
   
-  > 💡 There is not only one.
+  > 💡 There are a lot of these.
   
   [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
   
