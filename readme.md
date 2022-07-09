@@ -25,7 +25,6 @@
 <br/>
 
 [What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
-<br/><br/>
 
 ---
 
@@ -58,7 +57,6 @@
 <br/>
 
 [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
-<br/><br/>
 
 ---
 
@@ -85,7 +83,6 @@
   
 * [What is git? | git website](https://git-scm.com)
 * [git github repo](https://github.com/git/git)
-<br/><br/>
 
 ---
 
@@ -109,12 +106,40 @@
 * [gitlab](https://about.gitlab.com)
 * [bitbucket](https://bitbucket.org)
   
-<br/><br/>
-
 ---
 
 <br/>
 
+  ## What is GitHub[![](/assets/pin.svg)](#what-is-github)
+
+<br/>
+
+<p align="center">
+  <img width="700" src="/assets/git-based-fully-integrated-platform.jpg">
+</p>
+
+<br/>
+
+> 💡 GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration.
+
+<br/>
+
+ <p align="center">
+  <img width="700" src="/assets/git-is-not-github.png">
+</p>
+  
+* [What is GitHub?](https://kinsta.com/knowledgebase/what-is-github/)
+* [gitlab](https://about.gitlab.com)
+* [GitHub is not git](https://thebittheories.com/the-git-github-conundrum-664555988cf6)
+  
+---
+
+<br/>
+  
+  
+  
+  
+  
 -----
 # Separator
 -----
