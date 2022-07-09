@@ -3,9 +3,10 @@
 <a name="logo" href="https://victorjeman.com">
   <img align="center" src="/assets/git-workshop.png" alt="GIT Workshop" style="width:100%;height:100%"/>
 </a>
-  <br><br><strong>GIT Workshop</strong>
-</h1>
 
+# Git Workshop
+
+<br><br>
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
