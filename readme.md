@@ -50,19 +50,35 @@
 </p>
   
   [What is git? | git website](https://git-scm.com)
+  [git repo on github](https://github.com/git/git)
+  
+---
+
+
+## Git based platforms[![](/assets/pin.svg)](#git-based-platforms)
+
+<p align="center">
+  <img width="800" src="/assets/git-based-fully-integrated-platform.jpg">
+</p>
+
+  > 💡 There are multiple cloud platforms that are working based on git.
+
+
+  * [github](https://github.com)
+  * [gitlab](https://about.gitlab.com)
+  * [bitbucket](https://bitbucket.org)
   
 ---
 
 
 
+-----
+# Separator
+-----
 
-
-
-
-* [What is git?](https://github.com/git/git?ref=stackshare)
+* [What is git?](https://github.com/git/git)
 
 * Version control tools
-* ![Version control tools](/assets/version-control-tools.jpg)
 
 * [Git-based fully integrated platform for software development]
 * ![git-based-fully-integrated-platform](/assets/git-based-fully-integrated-platform.jpg)
