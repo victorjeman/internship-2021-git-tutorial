@@ -1,19 +1,30 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 
-<a name="logo" href="https://www.aregtech.com"><img align="center" src="/assets/git-workshop.png" alt="GIT Workshop 2022" style="width:100%;height:100%"/></a>
-  <br><br><strong>GIT Workshop 2022</strong>
+<a name="logo" href="https://victorjeman.com"><img align="center" src="/assets/git-workshop.png" alt="GIT Workshop" style="width:100%;height:100%"/></a>
+  <br><br><strong>GIT Workshop</strong>
 </h1>
 
 
-
-
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
+
+![where are my change](https://preview.redd.it/p2fa7cnx1pz31.png?auto=webp&s=48bd912260742bc2f743a11d227c06489973cf3e)
   
   > 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
   
   [What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
   
 ---
+
+
+## What is git?[![](/assets/pin.svg)](#what-is-git)
+  
+  > 💡 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+  
+  [What is git? | git website](https://git-scm.com)
+  
+---
+
+
 
 
 
