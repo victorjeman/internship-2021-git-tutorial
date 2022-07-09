@@ -1,6 +1,8 @@
-# ASSIST Internship 2021 
+<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 
-## Git Basics
+<a name="logo" href="https://www.aregtech.com"><img align="center" src="/assets/git-workshop.png" alt="GIT Workshop 2022" style="width:100%;height:100%"/></a>
+  <br><br><strong>GIT Workshop 2022</strong>
+</h1>
 
 <div style="background-color: #FFF; color: #000; padding: 20px; height: 90vh; border-radius: 10px;">
   
