@@ -6,7 +6,9 @@
 
 # Git Workshop
 
-<br><br>
+> Let's learn the basics about git together.
+
+<br/><br/><br/>
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
