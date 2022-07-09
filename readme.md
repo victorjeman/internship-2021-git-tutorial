@@ -12,6 +12,8 @@
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
+<br/>
+
 <p align="center">
   <img width="800" src="/assets/version-control.png">
 </p>
