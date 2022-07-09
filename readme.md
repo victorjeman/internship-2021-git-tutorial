@@ -115,7 +115,7 @@
 <br/>
 
 <p align="center">
-  <img width="700" src="/assets/git-based-fully-integrated-platform.jpg">
+  <img width="700" src="/assets/github.png">
 </p>
 
 <br/>
