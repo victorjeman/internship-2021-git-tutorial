@@ -25,7 +25,6 @@
 <br/>
 
 [What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
-
 <br/>
 
 ---
