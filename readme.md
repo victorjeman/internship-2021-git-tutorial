@@ -207,7 +207,7 @@ git branch
   <img width="700" src="/assets/tasks/3.jpg">
 </p>
 
-
+2
 <br/>
 
 > Creeaza 3 fisiere noi.
