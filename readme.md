@@ -371,11 +371,24 @@ git push origin feature/task-2
 
 <br/>
 
-## TASK 2.1
+## Task 2 updates
 
 <br/>
 
-> Task-ul 2 este ceva mai mare si o sa fie nevoie sa lucreze 2 colegi la el.
+> Fiind un task mai complicat o sa lucreze doi developeri la el.
+> Rezultatul final al taskului 2 este sa avem in fisierele "pretty-1.md" si "pretty-2.md" urmatorul text.
+
+<br/>
+
+```
+I am cool and sexy
+Oh so cool and sexy
+It's alarming how cool and sexy I am
+And so pretty
+That I hardly can believe I'm real
+```
+
+## TASK 2.1
 
 <br/>
 
@@ -408,6 +421,7 @@ git checkout -b feature/task-2.1
 > 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
 > Acceptance Criteria 1: schimba cuvantul "charming" cu "cool".
 > Acceptance Criteria 2: schimba cuvantul "feel" cu "am".
+> Acceptance Criteria 3: schimba cuvantul "pretty" cu "handsome".
 > Rezultatul final trebuie sa arate asa.
 ```
 I am cool
@@ -464,6 +478,7 @@ git checkout -b feature/task-2.2
 
 > 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
 > Acceptance Criteria 1: langa cuvantul charming adauga "and sexy"
+> Acceptance Criteria 2: sterge randu "And so pretty"
 > Rezultatul final trebuie sa arate asa.
 ```
 I feel charming and sexy
