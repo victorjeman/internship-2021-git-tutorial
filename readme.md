@@ -177,6 +177,8 @@ Download [Git bash](https://git-scm.com/downloads)
 git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
 ```
 
+<br/>
+
 > Fa un branch nou
 ```
 git checkout -b feature/task-1
