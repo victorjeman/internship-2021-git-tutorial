@@ -18,7 +18,7 @@
 
 ## What is git?[![](/assets/pin.svg)](#what-is-git)
 
-<img align="center" src="/assets/why-are-my-changes-gone.png" alt="why-are-my-changes-gone" style="width:600px; margin-right: auto; margin-left: auto; display: block"/>
+<img align="center" src="/assets/why-are-my-changes-gone.png" alt="why-are-my-changes-gone" style="width:600px; margin-right: auto; margin-left: auto; display: block;"/>
   
   > 💡 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
   
