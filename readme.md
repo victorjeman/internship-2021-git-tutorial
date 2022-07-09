@@ -27,7 +27,7 @@
   <img width="500" src="/assets/wrong.gif">
 </p>
   
-<p style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">💡 There are a lot of these.</p>
+<sup>💡 There are a lot of these.</sup>
 
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
