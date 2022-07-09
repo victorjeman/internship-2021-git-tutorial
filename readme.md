@@ -24,6 +24,8 @@
 
 [What is version control? | atlassian tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
+<br/>
+
 ---
 
 <br/><br/><br/>
@@ -56,6 +58,8 @@
 
 [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
   
+<br/>
+
 ---
 
 <br/><br/><br/>
@@ -82,6 +86,8 @@
 * [What is git? | git website](https://git-scm.com)
 * [git github repo](https://github.com/git/git)
 
+<br/>
+
 ---
 
 <br/><br/><br/>
@@ -104,6 +110,8 @@
 * [gitlab](https://about.gitlab.com)
 * [bitbucket](https://bitbucket.org)
   
+<br/>
+
 ---
 
 <br/><br/><br/>
