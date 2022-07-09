@@ -17,12 +17,7 @@
   
 ---
 
-## Version control tools?[![](/assets/pin.svg)](#version-control-tools)
-
-<p align="center">
-  <img width="800" src="/assets/version-control-tools.jpg">
-</p>
-
+## Version control tool(s)?[![](/assets/pin.svg)](#version-control-tools)
 
 <p align="center">
   <img width="500" src="/assets/there-can-be-only-one.jpg">
@@ -33,6 +28,10 @@
 </p>
   
   > 💡 There are a lot of these.
+
+<p align="center">
+  <img width="800" src="/assets/version-control-tools.jpg">
+</p>
   
   [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
   
