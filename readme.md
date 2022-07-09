@@ -276,6 +276,8 @@ git push origin feature/task-1
 
 > 👉 Fa merge la pull request in branch-ul "main".
 
+<br/>
+
 ## TASK 2
 
 > 👉 Verifica pe ce branch esti pe local.
@@ -294,14 +296,14 @@ git checkout main
 
 > 👉 Sterge branch-ul local "feature/task-1". Dupa ce faci merge la un branch in main, mereu sa-l stergi de pe local.
 ```
-git branch -D feature/task-1 
+git branch -D feature/task-1
 ```
 
 <br/>
 
 > 👉 Daca nu ai sters branch-ul remote(din GitHub) "feature/task-1" cand ai facut merge in "main", sterge-l acum. Mereu sa stergi branch-urile remote dupa ce le faci merge in branch-ul "main".
 ```
-git push -d origin feature/task-1 
+git push -d origin feature/task-1
 ```
 
 <br/>
