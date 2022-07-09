@@ -211,7 +211,7 @@ git branch
 
 > Creeaza 3 fisiere noi.
 ```
-touch playground/pretty-1.md playground/pretty-2.md playground/pretty-3.md playground/pretty-4.md
+touch play/pretty-1.md play/pretty-2.md play/pretty-3.md play/pretty-4.md
 ```
 
 <br/>
