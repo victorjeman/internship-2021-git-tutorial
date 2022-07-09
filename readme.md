@@ -59,7 +59,7 @@
 ## Git based platforms[![](/assets/pin.svg)](#git-based-platforms)
 
 <p align="center">
-  <img width="800" src="/assets/git-based-fully-integrated-platform.jpg">
+  <img width="700" src="/assets/git-based-fully-integrated-platform.jpg">
 </p>
 
   > 💡 There are multiple cloud platforms that are working based on git.
