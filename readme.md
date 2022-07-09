@@ -30,7 +30,7 @@
   > 💡 There are a lot of these.
 
 <p align="center">
-  <img width="800" src="/assets/version-control-tools.jpg">
+  <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
 </p>
   
   [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
