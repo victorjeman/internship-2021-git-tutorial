@@ -134,6 +134,8 @@
 ---
 
 <br/>
+
+# Playground
   
 ## STEP 1. Create a GitHub account
 
@@ -166,7 +168,35 @@ Download [Git bash](https://git-scm.com/downloads)
 ---
   
   
+
+## TASK 1
+
+````
+# Fa clone la proiect
+
+git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
+
+# Fa un branch nou
+git checkout -b feature/task-1
+
+# Creeaza un fisier nou
+touch my-file.md
+```
+
   
+## TASK 2
+
+`git checkout -b feature/task-2`
+
+<!-- 
+  TASK 2
+  - Fa un branch nou cu numele 'feature/task-2'
+  - Modifica numele autorului din "Unknown" cu numele tau
+  - Fa commit la modificarile tale
+  - Fa push la modificarile tale pe remote(GitHub)
+  - Fa un pull request ca sa le pui in branch-ul main
+  - Fa merge la pull request
+-->
   
   
   
