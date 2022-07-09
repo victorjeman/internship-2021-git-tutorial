@@ -40,10 +40,14 @@
 ## What is git?[![](/assets/pin.svg)](#what-is-git)
 
 <p align="center">
+  <img width="800" src="/assets/git.jpg">
+</p>
+
+  > 💡 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+<p align="center">
   <img width="800" src="/assets/why-are-my-changes-gone.png">
 </p>
-  
-  > 💡 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
   
   [What is git? | git website](https://git-scm.com)
   
