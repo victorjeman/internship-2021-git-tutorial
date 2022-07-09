@@ -1,4 +1,4 @@
-I feel charming
+I feel charming and sexy
 
 Oh so charming
 
