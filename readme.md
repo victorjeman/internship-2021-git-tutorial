@@ -135,16 +135,11 @@
 
 <br/>
   
-  
- 
-  
 ## STEP 1. Create a GitHub account
 
 <br/>
 
 Create a [GitHub account](https://github.com)
-
-<br/>
   
 ---
   
@@ -153,11 +148,8 @@ Create a [GitHub account](https://github.com)
 <br/>
 
 Download [Git bash](https://git-scm.com/downloads)
-
-<br/>
-  
----
-  
+ 
+---  
   
 ## STEP 3. Get Git bash
 
@@ -170,8 +162,6 @@ Download [Git bash](https://git-scm.com/downloads)
 * [Generating a new SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 * [Add ssh key to your GitHub Profile](https://github.com/settings/ssh/new)
-
-<br/>
   
 ---
   
