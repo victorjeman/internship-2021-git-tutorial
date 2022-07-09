@@ -1,9 +1,3 @@
-<style>
-  blockquote {
-    font-size: 20px;
-  }
-</style>
-
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 
 <a name="logo" href="https://victorjeman.com"><img align="center" src="/assets/git-workshop.png" alt="GIT Workshop" style="width:100%;height:100%"/></a>
@@ -33,7 +27,7 @@
   <img width="500" src="/assets/wrong.gif">
 </p>
   
-  > 💡 There are a lot of these.
+<p style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">💡 There are a lot of these.</p>
 
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
