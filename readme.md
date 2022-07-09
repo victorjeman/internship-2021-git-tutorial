@@ -199,13 +199,6 @@ touch pretty-1.md pretty-2.md pretty-3.md pretty-4.md
 
 <br/>
 
-> Verifica situatia.
-```
-git status
-```
-
-<br/>
-
 > Scrie in fiecare fisier urmatorul text.
 ```
 I feel charming
@@ -217,9 +210,22 @@ That I hardly can believe I'm real
 
 <br/>
 
-> Adauga fisierele "pretty-1.md" si "prett-2.md" in gitul tau local.
+> Verifica situatia.
 ```
-git add pretty-1.md
+git status
+```
+
+<br/>
+
+> Asa ceva ar trebui sa vezi
+
+<p align="center">
+  <img width="700" src="/assets/tasks/1.jpg">
+</p>
+
+> Adauga fisierele "pretty-1.md" si "pretty-2.md" in gitul tau local.
+```
+git add pretty-1.md pretty-2.md
 ```
 
 <br/>
