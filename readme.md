@@ -171,7 +171,6 @@ Download [Git bash](https://git-scm.com/downloads)
 
 ## TASK 1
 
-
 > Fa clone la proiect.
 ```
 git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
@@ -188,7 +187,7 @@ git checkout -b feature/task-1
 
 > Creeaza 3 fisiere noi.
 ```
-touch pretty-1.md pretty-2.md pretty-3.md
+touch pretty-1.md pretty-2.md pretty-3.md pretty-4.md
 ```
 
 <br/>
@@ -211,144 +210,130 @@ That I hardly can believe I'm real
 
 <br/>
 
-> Adauga "pretty-1.md" in git.
+> Adauga fisierele "pretty-1.md" si "prett-2.md" in gitul tau local.
 ```
 git add pretty-1.md
 ```
 
 <br/>
 
-> Verifica situatia. Trebuie sa ai un singur fisier cu verde si 2 cu rosu.
+> Verifica situatia. Trebuie sa ai 2 fisiere cu verde si 2 cu rosu. Fisierele cu verde sunt in staged area.
 ```
 git status
 ```
 
 <br/>
   
-> Adauga un commit cu mesaj si descriere.
+> Adauga un commit cu mesaj si descriere pentru fisierele tale din staged area.
 ```
 git commit -m "TASK 1 | Am adaugat fisieru pretty-1.md" -m "So far so good. Primul task nu pare asa de greu"
 ```
 
 <br/>
 
-> Fa push cu modificarile din git-ul tau local pe remote.
+> Fa push cu modificarile din git-ul tau local(staged area) pe remote(GitHub).
 ```
-git push origin main
+git push origin feature/task-2
+```
+
+<br/>
+
+> Fa un pull request in GitHub.
+
+<br/>
+
+> Fa merge la pull request in branch-ul "main".
+
+## TASK 2
+
+> Verifica pe ce branch esti pe local.
+```
+git branch 
+```
+
+<br/>
+
+> Inainte sa te apuci de un alt task/feature mereu sa mergi inapoi pe branch-ul local "main".
+```
+git checkout main 
+```
+
+<br/>
+
+> Sterge branch-ul local "feature/task-1". Dupa ce faci merge la un branch in main, mereu sa-l stergi de pe local.
+```
+git branch -D feature/task-1 
 ```
 
 <br/>
 
 
-## TASK 2
+> Daca nu ai sters branch-ul remote(din GitHub) "feature/task-1" cand ai facut merge in "main", sterge-l acum. Mereu sa stergi branch-urile remote dupa ce le faci merge in branch-ul "main".
+```
+git push -d origin feature/task-1 
+```
 
-`git checkout -b feature/task-2`
+<br/>
 
-<!-- 
-  TASK 2
-  - Fa un branch nou cu numele 'feature/task-2'
-  - Modifica numele autorului din "Unknown" cu numele tau
-  - Fa commit la modificarile tale
-  - Fa push la modificarile tale pe remote(GitHub)
-  - Fa un pull request ca sa le pui in branch-ul main
-  - Fa merge la pull request
--->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
------
-# Separator
------
+> Mai verifica o data lista de branch-uri locale. Observa ca branch-ul "feature/task-1 " nu mai apare in lista.
+```
+git branch
+```
 
+<br/>
 
-* Create a ssh key
+> Inainte sa lucrezi la un nou feature, asigura-te ca branch-ul tau local "main" este la zi cu modificarile  din branch-ul "main" remote(de pe GitHub). Fiind pe branch-ul "main" local, faci un git pull de pe branch-ul "main" remote.
+```
+git pull origin main
+```
 
-  * Enter `ls -al ~/.ssh` to [see if existing SSH keys are present](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
+<br/>
 
-  * [Generating a new SSH key](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+> Branch-ul tau local "main" fiind la zi, poti sa faci un alt branch "feature/task-2" care porneste din branch-ul "main".
+```
+git checkout -b feature/task-2
+```
 
-  * [Add ssh key to your GitHub Profile](https://github.com/settings/ssh/new)
+<br/>
 
+> Noi in task-ul anterior nu am facut commit si push la toate fisierele. Momentan mai avem doua fisiere care sunt untracked de git(au culoarea rosie).
+```
+git status
+```
 
-  
-  
-  
-  
-## Git basic flow. Createa a [new repository](https://github.com/new)
-  
-  * Create new repo 
-  * ![new repo](/assets/new-repo.jpg)
+<br/>
 
-  * Add repo details
-  * ![new repo form](/assets/new-repo-form.jpg)
+> Adauga ambele fisiere in git-ul tau local. De data asta in loc sa adaugam fiecare fisier in parte o sa adauga toate modificarile modificate.
+```
+git add .
+```
 
-  * Clone the repo
-  * ![clone repo](/assets/clone-info.jpg)
-  * ![clone repo](/assets/clone-repo.jpg)
+<br/>
 
-  * cd into the project
-  * ![clone repo](/assets/cd-project.jpg)
+> Asigura-te ca fisierele tale sunt cu verde, adica adaugate in staged area.
+```
+git status
+```
 
-  * Create *.gitignore* file and a **ignore-me.md** file
-  * Add **ignore-me.md** file ot the **.gitignore**
-  * ![clone repo](/assets/ignore-a-file.jpg)
+<br/>
 
-  * Push the changes to remote branch
-  * ![clone repo](/assets/push-changes.jpg)
+> Adauga un commit
+```
+git commit -m "TASK 2 | Gata si task-ul 2" -m "Am mai invatat niste chestii noi"
+```
 
+<br/>
 
-  * See that **.gitignore** file has been added into the main branch
-  * ![clone repo](/assets/gitignore-created.jpg)
+> Fa push pe remote(pe git-ul integrat/instalat in GitHub)
+```
+git push origin feature/task-2
+```
 
-  * ![git commit](https://preview.redd.it/8mcssb978dk51.png?width=960&crop=smart&auto=webp&s=c633b0ac2896bb180e5c4e6c701f04326e6a1375)
+<br/>
 
+> Creeaza un pull request din interfata GitHub dar nu-i da merge inca. 
+```
+git push origin feature/task-2
+```
 
-## Create a Pull Request
-
-  * Create a new branch, `git checkout -b YourName`, e.g. `git checkout -b VictorJeman`
-  * ![clone repo](/assets/create-new-branch.jpg)
-
-  * Add a new file **YourName.md** and write something in it.
-  * ![clone repo](/assets/add-a-file.jpg)
-
-  * Add all your changes to git 
-  * `git add .`
-  * `git commit -m "Created a file with my name and did some changes in it"`
-  * `git push origin VictorJeman`
-  * ![clone repo](/assets/push-the-changes.jpg)
-  
-
-  * Create a Pull Request from your **YourName** branch into **main** branch
-  * ![clone repo](/assets/create-pull-request.jpg)
-  * or
-  * ![clone repo](/assets/create-pull-request-2.jpg)
-
-
-  * Select merge type
-  * ![clone repo](/assets/select-merge-type.jpg)
-  * ![clone repo](/assets/squash-and-merge.jpg)
-
-  * Merge Pull Requests into **main** branch and delete the temporary branch
-  * ![clone repo](/assets/delete-branch-after-merge.jpg)
-
-  * ![git pull rquest](https://pics.me.me/just-make-sure-they-merge-my-pull-request-imgflip-com-programmer-29564995.png)
-
-
-## Solving conflicts
-
-  * TODO: To add pictures
-
-
-## Extra
-
-  * [GitHub Desktop](https://desktop.github.com)
-
-  * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
+<br/>
