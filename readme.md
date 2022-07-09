@@ -172,24 +172,74 @@ Download [Git bash](https://git-scm.com/downloads)
 ## TASK 1
 
 
-> Fa clone la proiect
+> Fa clone la proiect.
 ```
 git clone git@github.com:victorjeman/internship-2021-git-tutorial.git
 ```
 
 <br/>
 
-> Fa un branch nou
+> Fa un branch nou.
 ```
 git checkout -b feature/task-1
 ```
 
-> Creeaza un fisier nou
+<br/>
+
+> Creeaza 3 fisiere noi.
 ```
-touch my-file.md
+touch pretty-1.md pretty-2.md pretty-3.md
 ```
 
+<br/>
+
+> Verifica situatia.
+```
+git status
+```
+
+<br/>
+
+> Scrie in fiecare fisier urmatorul text.
+```
+I feel charming
+Oh so charming
+It's alarming how charming I feel
+And so pretty
+That I hardly can believe I'm real
+```
+
+<br/>
+
+> Adauga "pretty-1.md" in git.
+```
+git add pretty-1.md
+```
+
+<br/>
+
+> Verifica situatia. Trebuie sa ai un singur fisier cu verde si 2 cu rosu.
+```
+git status
+```
+
+<br/>
   
+> Adauga un commit cu mesaj si descriere.
+```
+git commit -m "TASK 1 | Am adaugat fisieru pretty-1.md" -m "So far so good. Primul task nu pare asa de greu"
+```
+
+<br/>
+
+> Fa push cu modificarile din git-ul tau local pe remote.
+```
+git push origin main
+```
+
+<br/>
+
+
 ## TASK 2
 
 `git checkout -b feature/task-2`
