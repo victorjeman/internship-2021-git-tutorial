@@ -44,7 +44,7 @@
 
 <br/>
   
-> 💡 Conclusion:
+> 👻 Conclusion:
 
 > 💡 **Version control**, also known as source control, is the practice of **tracking and managing changes to software code**.  
 
@@ -112,11 +112,11 @@
 * [VERSION CONTROL SYSTEMS: DISTRIBUTED VS. CENTRALIZED](https://www.oshyn.com/blog/version-control-systems-distributed-vs-centralized)
 
 
-> 💡 Conclusion:
+> 👻 Conclusion
 
 > 💡 Version control systems are **software tools** that help software teams **manage changes to source code over time**.
 
-> 💡 Version control software keeps track of every modification to the code in a **special kind of database**.
+> 💡 Version control software **keeps track of every modification** to the code in a **special kind of database**.
 
 ---
 
@@ -131,13 +131,15 @@
 
 <br/>
 
-  > 💡 Git is a specific open-source version control system created by Linus Torvalds in 2005 designed to handle projects with speed and efficiency.
+<p align="center">
+  <img width="1000" src="/assets/why-are-my-changes-gone.png">
+</p>
 
 <br/>
 
-<p align="center">
-  <img width="800" src="/assets/why-are-my-changes-gone.png">
-</p>
+> 👻 Conclusion 
+
+> 💡 Git is a specific open-source version control system created by Linus Torvalds in 2005 designed to handle projects with speed and efficiency.
 
 <br/>
   
@@ -157,6 +159,8 @@
 </p>
 
 <br/>
+
+> 👻 Conclusion 
 
 > 💡 There are multiple cloud platforms that are working based on git.
 
