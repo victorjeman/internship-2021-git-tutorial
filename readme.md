@@ -54,8 +54,6 @@
 
 ---
 
-<br/>
-
 ## Version control system?[![](/assets/pin.svg)](#version-control-systems)
 
 <br/>
@@ -94,14 +92,15 @@
 <br/>
 
 > 🤔 Question: Version control systems: distributed vs centralized. What is the difference? 
-
-<br/>
-
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/central-decentral.png">
 </p>
 
 <br/>
+
+> 💡 **Centralized** VCSs **keep the history of changes on a central server** from which everyone requests the latest version of the work and pushes the latest changes to. This means that **everyone* sharing the server** also **shares everyone’s work**.
+
+> 💡 On a **Distributed** VCS, everyone has a **local copy of the entire work’s history**. This means that it **is not necessary to be online to change revisions** or add changes to the work.
 
 * **Distributed VCS**: Git, Mercurial.
 * **Centralized VCS**: CVS, Perforce, SVN.
@@ -111,6 +110,7 @@
 * [VERSION CONTROL SYSTEMS: DISTRIBUTED VS. CENTRALIZED](https://www.oshyn.com/blog/version-control-systems-distributed-vs-centralized)
 
 
+> 💡 Conclusion:
 > 💡 Version control systems are **software tools** that help software teams **manage changes to source code over time**.
 > 💡 Version control software keeps track of every modification to the code in a **special kind of database**.
 
