@@ -44,6 +44,8 @@
 
 <br/>
   
+> 💡 Conclusion:
+
 > 💡 **Version control**, also known as source control, is the practice of **tracking and managing changes to software code**.  
 
 > 💡 If a mistake is made, developers can turn back the clock and **compare earlier versions** of the code to help **fix the mistake** while **minimizing disruption** to all team members.
@@ -111,7 +113,9 @@
 
 
 > 💡 Conclusion:
+
 > 💡 Version control systems are **software tools** that help software teams **manage changes to source code over time**.
+
 > 💡 Version control software keeps track of every modification to the code in a **special kind of database**.
 
 ---
