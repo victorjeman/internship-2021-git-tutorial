@@ -61,9 +61,6 @@
 <br/>
 
 > 🤔 Question: How many version control systems do you know?
-
-<br/>
-
 <p align="center">
   <img width="600" src="/assets/there-can-be-only-one.jpg">
 </p>
@@ -77,9 +74,6 @@
 <br/>
 
 > 💡 There are a lot of version control systems.
-
-<br/>
-
 <p align="center">
   <img width="1000" src="/assets/so-many.gif">
 </p>
@@ -88,8 +82,9 @@
 
 <br/>
 
+> 💡 Some of the cool ones! 
 <p align="center">
-  <img width="700" src="/assets/version-control-tools.jpg">
+  <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
 </p>
 
 <br/>
