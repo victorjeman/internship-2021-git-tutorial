@@ -14,6 +14,10 @@
 
 > 🤔 Question: What is vesion control?
 
+<p align="center">
+  <img width="800" src="/assets/what-is-version-control.jpg">
+</p>
+
 > 🤔 Question: When you first started to use a version control?
 
 <br/>
@@ -23,6 +27,8 @@
 <br/>
 
 > 🤔 Question: Does it make sense to use a version control in your personal projects?
+
+<br/>
 
 <p align="center">
   <img width="800" src="/assets/version-control.png">
@@ -40,7 +46,7 @@
 
 <br/>
 
-## Version control system(s)?[![](/assets/pin.svg)](#version-control-systems)
+## Version control system?[![](/assets/pin.svg)](#version-control-systems)
 
 <br/>
 
@@ -82,6 +88,11 @@
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/central-decentral.png">
 </p>
+
+<br/>
+
+* **Distributed VCS**: Git, Mercurial.
+* **Centralized VCS**: CVS, Perforce, SVN.
 
 <br/>
 
