@@ -18,7 +18,7 @@
 
 > 🤔 Question: What is vesion control?
 <p align="center">
-  <img style="width:80%;" src="/assets/version-control.png">
+  <img style="width:80%;" src="/assets/what-is-version-control.jpg">
 </p>
 
 <br/>
@@ -46,7 +46,7 @@
   
 > 👻 Conclusion:
 
-> 💡 **Version control**, also known as source control, is the practice of **tracking and managing changes to software code**.  
+> 💡 **Version control**, also known as source control, is the **practice** of **tracking** and **managing changes** to software code.  
 
 > 💡 If a mistake is made, developers can turn back the clock and **compare earlier versions** of the code to help **fix the mistake** while **minimizing disruption** to all team members.
 
@@ -62,7 +62,7 @@
 
 > 🤔 Question: What is a version control system?
 <p align="center">
-  <img width="600" src="/assets/there-can-be-only-one.jpg">
+  <img style="width:80%;" src="/assets/version-control.png">
 </p>
 
 <br/>
