@@ -142,8 +142,6 @@
 
 <br/>
 
-> 👻 Conclusion 
-
 > 💡 Git is a specific open-source version control system created by Linus Torvalds in 2005 designed to handle projects with speed and efficiency.
 
 <br/>
