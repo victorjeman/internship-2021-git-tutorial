@@ -25,7 +25,7 @@
 
 > 🤔 Question: When you first started to use a version control?
 <p align="center">
-  <img style="width:80%;height:80%" src="/assets/first-time.gif">
+  <img width="800" src="/assets/first-time.gif">
 </p>
 
 <br/>
@@ -39,7 +39,7 @@
 
 > 🤔 Question: Does it make sense to use a version control in your personal projects?
 <p align="center">
-  <img width="1000" src="/assets/it-make-sense.gif">
+  <img width="800" src="/assets/it-make-sense.gif">
 </p>
 
 <br/>
