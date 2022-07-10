@@ -17,7 +17,6 @@
 <br/>
 
 > 🤔 Question: What is vesion control?
-
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/what-is-version-control.jpg">
 </p>
@@ -25,9 +24,6 @@
 <br/>
 
 > 🤔 Question: When you first started to use a version control?
-
-<br/>
-
 <p align="center">
   <img width="1000" src="/assets/first-time.gif">
 </p>
@@ -35,9 +31,6 @@
 <br/>
 
 > 🤔 Question: What benefits it gave you?
-
-<br/>
-
 <p align="center">
   <img style="width:100%;height:100%" src="/assets/benefits.jpg">
 </p>
@@ -45,9 +38,6 @@
 <br/>
 
 > 🤔 Question: Does it make sense to use a version control in your personal projects?
-
-<br/>
-
 <p align="center">
   <img width="1000" src="/assets/it-make-sense.gif">
 </p>
