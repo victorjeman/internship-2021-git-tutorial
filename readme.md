@@ -19,7 +19,7 @@
 > 🤔 Question: What is vesion control?
 
 <p align="center">
-  <img width="600" src="/assets/what-is-version-control.jpg">
+  <img style="width:100%;height:100%" src="/assets/what-is-version-control.jpg">
 </p>
 
 <br/>
@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-  <img width="600" src="/assets/first-time.gif">
+  <img style="width:100%;height:100%" src="/assets/first-time.gif">
 </p>
 
 <br/>
@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-  <img width="600" src="/assets/benefits.jpg">
+  <img style="width:100%;height:100%" src="/assets/benefits.jpg">
 </p>
 
 <br/>
@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-  <img width="600" src="/assets/it-make-sense.gif">
+  <img style="width:100%;height:100%" src="/assets/it-make-sense.gif">
 </p>
 
 <br/>
@@ -75,13 +75,13 @@
 <br/>
 
 <p align="center">
-  <img width="600" src="/assets/there-can-be-only-one.jpg">
+  <img style="width:100%;height:100%" src="/assets/there-can-be-only-one.jpg">
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="600" src="/assets/wrong.gif">
+  <img style="width:100%;height:100%" src="/assets/wrong.gif">
 </p>
 
 <br/>
@@ -91,7 +91,7 @@
 <br/>
 
 <p align="center">
-  <img width="600" src="/assets/so-many.gif">
+  <img style="width:100%;height:100%" src="/assets/so-many.gif">
 </p>
 
 [List of version-control software](https://en.wikipedia.org/wiki/List_of_version-control_software)
