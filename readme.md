@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/first-time.gif">
+  <img with="1000" src="/assets/first-time.gif">
 </p>
 
 <br/>
@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/it-make-sense.gif">
+  <img with="1000" src="/assets/it-make-sense.gif">
 </p>
 
 <br/>
@@ -81,7 +81,7 @@
 <br/>
 
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/wrong.gif">
+  <img with="1000" src="/assets/wrong.gif">
 </p>
 
 <br/>
@@ -91,7 +91,7 @@
 <br/>
 
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/so-many.gif">
+  <img with="1000" src="/assets/so-many.gif">
 </p>
 
 [List of version-control software](https://en.wikipedia.org/wiki/List_of_version-control_software)
