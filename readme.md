@@ -18,7 +18,7 @@
 
 > 🤔 Question: What is vesion control?
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/what-is-version-control.jpg">
+  <img style="width:100%;height:100%" src="/assets/version-control.png">
 </p>
 
 <br/>
@@ -57,6 +57,13 @@
 ---
 
 ## Version control system?[![](/assets/pin.svg)](#version-control-systems)
+
+<br/>
+
+> 🤔 Question: What is a version control system?
+<p align="center">
+  <img width="600" src="/assets/there-can-be-only-one.jpg">
+</p>
 
 <br/>
 
