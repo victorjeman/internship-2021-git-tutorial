@@ -43,8 +43,6 @@
 </p>
 
 <br/>
-  
-> 👻 Conclusion:
 
 > 💡 **Version control**, also known as source control, is the **practice** of **tracking** and **managing changes** to software code.  
 
@@ -96,6 +94,12 @@
 
 <br/>
 
+> 💡 Version control systems are **software tools** that help software teams **manage changes to source code over time**.
+
+> 💡 Version control software **keeps track of every modification** to the code in a **special kind of database**.
+
+<br/>
+
 [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
 
 <br/>
@@ -118,12 +122,6 @@
 
 * [VERSION CONTROL SYSTEMS: DISTRIBUTED VS. CENTRALIZED](https://www.oshyn.com/blog/version-control-systems-distributed-vs-centralized)
 
-
-> 👻 Conclusion
-
-> 💡 Version control systems are **software tools** that help software teams **manage changes to source code over time**.
-
-> 💡 Version control software **keeps track of every modification** to the code in a **special kind of database**.
 
 ---
 
@@ -166,8 +164,6 @@
 </p>
 
 <br/>
-
-> 👻 Conclusion 
 
 > 💡 There are multiple cloud platforms that are working based on git.
 
