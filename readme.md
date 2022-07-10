@@ -6,17 +6,17 @@
 
 # Git Workshop
 
+<br/>
+
 > Let's learn the basics about git together.
 
 <br/><br/>
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
-<p align="center">
+<br/>
 
 > 🤔 Question: What is vesion control?
-
-</p>
 
 <p align="center">
   <img width="500" src="/assets/what-is-version-control.jpg">
@@ -38,17 +38,24 @@
 
 <br/>
 
+<p align="center">
+  <img width="800" src="/assets/benefits.jpg">
+</p>
+
+<br/>
+
 > 🤔 Question: Does it make sense to use a version control in your personal projects?
 
 <br/>
 
 <p align="center">
-  <img width="800" src="/assets/version-control.png">
+  <img width="800" src="/assets/it-make-sense.gif">
 </p>
 
 <br/>
   
-> 💡 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control software keeps        track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+> 💡 **Version control**, also known as source control, is the practice of **tracking and managing changes to software code**.  
+> 💡 If a mistake is made, developers can turn back the clock and **compare earlier versions** of the code to help **fix the mistake** while **minimizing disruption** to all team members.
 
 <br/>
 
@@ -109,6 +116,10 @@
 <br/>
 
 * [VERSION CONTROL SYSTEMS: DISTRIBUTED VS. CENTRALIZED](https://www.oshyn.com/blog/version-control-systems-distributed-vs-centralized)
+
+
+> 💡 Version control systems are **software tools** that help software teams **manage changes to source code over time**.
+> 💡 Version control software keeps track of every modification to the code in a **special kind of database**.
 
 ---
 
