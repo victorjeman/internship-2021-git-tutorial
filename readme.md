@@ -15,7 +15,7 @@
 > 🤔 Question: What is vesion control?
 
 <p align="center">
-  <img width="800" src="/assets/what-is-version-control.jpg">
+  <img width="500" src="/assets/what-is-version-control.jpg">
 </p>
 
 > 🤔 Question: When you first started to use a version control?
