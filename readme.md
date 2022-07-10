@@ -18,7 +18,7 @@
 
 > 🤔 Question: What is vesion control?
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/what-is-version-control.jpg">
+  <img style="width:90%;height:90%" src="/assets/what-is-version-control.jpg">
 </p>
 
 <br/>
