@@ -18,14 +18,14 @@
 
 > 🤔 Question: What is vesion control?
 <p align="center">
-  <img style="width:90%;height:90%" src="/assets/what-is-version-control.jpg">
+  <img style="width:80%;height:80%" src="/assets/what-is-version-control.jpg">
 </p>
 
 <br/>
 
 > 🤔 Question: When you first started to use a version control?
 <p align="center">
-  <img width="1000" src="/assets/first-time.gif">
+  <img style="width:80%;height:80%" src="/assets/first-time.gif">
 </p>
 
 <br/>
