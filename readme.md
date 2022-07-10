@@ -19,7 +19,7 @@
 > 🤔 Question: What is vesion control?
 
 <p align="center">
-  <img width="500" src="/assets/what-is-version-control.jpg">
+  <img width="600" src="/assets/what-is-version-control.jpg">
 </p>
 
 <br/>
@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-  <img width="500" src="/assets/first-time.gif">
+  <img width="600" src="/assets/first-time.gif">
 </p>
 
 <br/>
@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-  <img width="500" src="/assets/benefits.jpg">
+  <img width="600" src="/assets/benefits.jpg">
 </p>
 
 <br/>
@@ -49,12 +49,13 @@
 <br/>
 
 <p align="center">
-  <img width="500" src="/assets/it-make-sense.gif">
+  <img width="600" src="/assets/it-make-sense.gif">
 </p>
 
 <br/>
   
 > 💡 **Version control**, also known as source control, is the practice of **tracking and managing changes to software code**.  
+
 > 💡 If a mistake is made, developers can turn back the clock and **compare earlier versions** of the code to help **fix the mistake** while **minimizing disruption** to all team members.
 
 <br/>
@@ -74,13 +75,13 @@
 <br/>
 
 <p align="center">
-  <img width="500" src="/assets/there-can-be-only-one.jpg">
+  <img width="600" src="/assets/there-can-be-only-one.jpg">
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="500" src="/assets/wrong.gif">
+  <img width="600" src="/assets/wrong.gif">
 </p>
 
 <br/>
@@ -89,14 +90,21 @@
 
 <br/>
 
-* [List of version-control software](https://en.wikipedia.org/wiki/List_of_version-control_software)
-* [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
+<p align="center">
+  <img width="600" src="/assets/so-many.gif">
+</p>
+
+[List of version-control software](https://en.wikipedia.org/wiki/List_of_version-control_software)
 
 <br/>
 
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/version-control-tools.jpg">
+  <img width="700" src="/assets/version-control-tools.jpg">
 </p>
+
+<br/>
+
+[15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
 
 <br/>
 
