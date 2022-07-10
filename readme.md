@@ -18,7 +18,15 @@
   <img width="500" src="/assets/what-is-version-control.jpg">
 </p>
 
+<br/>
+
 > 🤔 Question: When you first started to use a version control?
+
+<br/>
+
+<p align="center">
+  <img width="500" src="/assets/first-time.gif">
+</p>
 
 <br/>
 
