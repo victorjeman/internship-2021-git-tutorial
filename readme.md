@@ -12,7 +12,15 @@
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
+> 🤔 Question: When you first started to use a version control?
+
 <br/>
+
+> 🤔 Question: What benefits it gave you?
+
+<br/>
+
+> 🤔 Question: Does it make sense to use a version control in your personal projects?
 
 <p align="center">
   <img width="800" src="/assets/version-control.png">
@@ -30,7 +38,11 @@
 
 <br/>
 
-## Version control tool(s)?[![](/assets/pin.svg)](#version-control-tools)
+## Version control system(s)?[![](/assets/pin.svg)](#version-control-systems)
+
+<br/>
+
+> 🤔 Question: How many version control systems do you know?
 
 <br/>
 
@@ -43,10 +55,15 @@
 <p align="center">
   <img width="500" src="/assets/wrong.gif">
 </p>
-  
+
 <br/>
 
-> 💡 There are a lot of these.
+> 💡 There are a lot of version control systems.
+
+<br/>
+
+* [List of version-control software](https://en.wikipedia.org/wiki/List_of_version-control_software)
+* [15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
 
 <br/>
 
@@ -56,7 +73,17 @@
 
 <br/>
 
-[15 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software)
+> 🤔 Question: Version control systems: distributed vs centralized. What is the difference? 
+
+<br/>
+
+<p align="center">
+  <img style="width:100%;height:100%" src="/assets/central-decentral.png">
+</p>
+
+<br/>
+
+* [VERSION CONTROL SYSTEMS: DISTRIBUTED VS. CENTRALIZED](https://www.oshyn.com/blog/version-control-systems-distributed-vs-centralized)
 
 ---
 
@@ -364,13 +391,6 @@ git push origin feature/task-2
 
 <br/>
 
-> 👉 Creeaza un pull request din interfata GitHub dar nu-i da merge inca. 
-```
-git push origin feature/task-2
-```
-
-<br/>
-
 ## Task 2 updates
 
 <br/>
@@ -420,12 +440,13 @@ git checkout -b feature/task-2.1
 
 > 👉 In fisierul "pretty-1.md" si "pretty-2.md" 
 > Acceptance Criteria 1: schimba cuvantul "charming" cu "handsome".
-> Acceptance Criteria 1: sterge randul 4
+> Acceptance Criteria 1: Inlocuieste randul 4 cu "++++++"
 > Pentru task-2.1 fisierele "pretty-1.md" si "pretty-2.md"  trebuie sa contina
 ```
 I feel handsome
 Oh so charming
 It's alarming how charming I feel
+++++++
 That I hardly can believe I'm real
 ```
 
@@ -434,7 +455,7 @@ That I hardly can believe I'm real
 > 👉 Pune modificarile pe un branch remote
 ```
 git add .
-git commit -m "TASK 2.1"
+git commit -m "TASK 2.1 | Modificare 2.1"
 git push origin feature/task-2.1
 ```
 
@@ -499,10 +520,9 @@ That I hardly can believe I'm real
 > 👉 Pune modificarile pe un branch remote
 ```
 git add .
-git commit -m "TASK 2.2"
+git commit -m "TASK 2.2 | Modificare 2.2"
 git push origin feature/task-2.1
 ```
-
 
 ## Task 2 updates
 
@@ -515,3 +535,12 @@ git push origin feature/task-2.1
 <br/>
 
 > 👉 Rezolva conflictele.
+
+> 👉 Fa merge la "feature/task-2" in "main"
+
+
+## Task 3
+
+> Caute in commit-urile vechi si fa o ajustare  
+
+git log --all --grep='Task 2.2'
