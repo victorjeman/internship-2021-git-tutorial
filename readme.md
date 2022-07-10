@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-  <img width="800" src="/assets/benefits.jpg">
+  <img width="500" src="/assets/benefits.jpg">
 </p>
 
 <br/>
@@ -49,7 +49,7 @@
 <br/>
 
 <p align="center">
-  <img width="800" src="/assets/it-make-sense.gif">
+  <img width="500" src="/assets/it-make-sense.gif">
 </p>
 
 <br/>
