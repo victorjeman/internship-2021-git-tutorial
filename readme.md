@@ -65,13 +65,13 @@
 <br/>
 
 <p align="center">
-  <img style="width:100%;height:100%" src="/assets/there-can-be-only-one.jpg">
+  <img width="600" src="/assets/there-can-be-only-one.jpg">
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="1000" src="/assets/wrong.gif">
+  <img width="600" src="/assets/wrong.gif">
 </p>
 
 <br/>
