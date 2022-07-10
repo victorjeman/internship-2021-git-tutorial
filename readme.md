@@ -12,6 +12,8 @@
 
 ## What is vesion control?[![](/assets/pin.svg)](#what-is-version-control)
 
+> 🤔 Question: What is vesion control?
+
 > 🤔 Question: When you first started to use a version control?
 
 <br/>
